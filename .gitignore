@@ -1,3 +1,6 @@
+# 忽略.idea目录
+.idea/
+
 # 忽略out目录，不忽略out文件
 out/
 # Compiled class file
